@@ -1,0 +1,12 @@
+Package: com.mileskabal.appinfo
+Name: AppInfo
+Version: 1.6.3b5
+Architecture: iphoneos-arm
+Description: displays informations about installed apps, export data from native apps (like SMS and iMessage) and possibility to send song by email.
+Maintainer: Mileskabal <miles@mileskabal.com>
+Author: Miles <miles@mileskabal.com>
+Depends: dpkg, p7zip
+Depiction: http://mileskabal.com/cydia/?app=appinfo
+Homepage: http://mileskabal.com/cydia/?app=appinfo
+dev: Miles
+Section: Utilities
