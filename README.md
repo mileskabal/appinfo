@@ -1,6 +1,6 @@
 **AppInfo**
 
-![ScreenShot](http://mileskabal.com/cydia/screenshots/appinfo_1.6_01.png =320x) 
+![](http://mileskabal.com/cydia/screenshots/appinfo_1.6_01.png =320x)  
 
 AppInfo displays informations about installed apps, repo/packages and native apps (like Messages) with export options. AppInfo can also explore your iPod's Library and knows in which folder are your songs.
 
@@ -15,6 +15,7 @@ AppInfo displays informations about installed apps, repo/packages and native app
 * Possibility to copy song or entire albums from iPod's Library
 * Available in Deutsch, English, French, Italian, Spanish, Croatian, Portuguese, Swedish, Czech and Turkish.
 * iOS6 &amp; iOS7 compatible, 4-inch screen compatible
+
 
 
 ![ScreenShot](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)  
