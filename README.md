@@ -1,6 +1,6 @@
 **AppInfo**
 
-![](http://mileskabal.com/cydia/screenshots/appinfo_1.6_01.png = 320x)  
+<img src="http://mileskabal.com/cydia/screenshots/appinfo_1.6_01.png" alt="AppInfo" style="width: 320px;"/>
 
 AppInfo displays informations about installed apps, repo/packages and native apps (like Messages) with export options. AppInfo can also explore your iPod's Library and knows in which folder are your songs.
 
